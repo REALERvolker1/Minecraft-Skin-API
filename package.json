@@ -1,15 +1,16 @@
 {
-  "name": "skin-api",
+  "name": "minecraft-skin-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple username -> 3D Minecraft skin render API",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "GPL-3.0-or-later",
+  "keywords": ["Minecraft","Skin","Render","API"],
+  "author": "volker1",
+	"repository": "https://github.com/REALERvolker1/Minecraft-Skin-API",
+  "license": "GPL-3.0",
   "dependencies": {
     "@koa/router": "^10.1.1",
     "koa": "^2.13.4"

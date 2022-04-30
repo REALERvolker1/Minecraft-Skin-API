@@ -18,4 +18,4 @@ http://localhost:3000/?skin=iAmZeiss
 
 `http://[your-host-and-port]/?skin=[Minecraft-username]&json=[true if you want json output, can be ommitted]`
 
-This does depend on an external site for the render. You may replace it with an alternative if it ever goes down. https://visage.surgeplay.com/index.html
+This does depend on 
