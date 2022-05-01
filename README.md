@@ -19,3 +19,8 @@ http://localhost:3000/?skin=volker1
 `http://[your-host-and-port]/?skin=[Minecraft-username]&json=[true if you want json output, can be ommitted]`
 
 This does depend on an external site for the render. You may replace it with an alternative if it ever goes down. https://visage.surgeplay.com/index.html
+<<<<<<< HEAD
+=======
+
+I might make a github page for this, idk it depends on how much ppl like it or want it. I just intended to use it for node.js stuff
+>>>>>>> cb7f0004f84725d47cefb40d1a47f453405f77b7
