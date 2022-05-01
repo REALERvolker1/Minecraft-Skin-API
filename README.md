@@ -14,7 +14,7 @@ node .
 
 The URL format is:
 
-http://localhost:3000/?skin=iAmZeiss
+http://localhost:3000/?skin=volker1
 
 `http://[your-host-and-port]/?skin=[Minecraft-username]&json=[true if you want json output, can be ommitted]`
 

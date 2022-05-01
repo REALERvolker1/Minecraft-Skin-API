@@ -1,5 +1,6 @@
 import koa from 'koa'
 import Router from '@koa/router'
+import fetch from 'node-fetch'
 
 const app = new koa()
 const router = new Router()
